@@ -1,0 +1,5 @@
+#note on 4710EVM: jumper j11 is I2C header (located near lens)
+#from bottom of header to top (farthest from J11 label to closest), the pins
+#are: SDA, SCL, GND, unknown system pin
+#EVM has I2C address of 0x1b
+
